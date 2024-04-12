@@ -17,5 +17,10 @@ AM_03_dense.mat: prediction results, dense model.\
 AM_03_sparse.mat: prediction results, sparse model.\
 AM_real03: the third real application.\
 CPILFESL.csv: data file associated with AM_real03, quarterly.\
-CPILFESL(1).csv: data file associated with AM_real03, monthly.
+CPILFESL(1).csv: data file associated with AM_real03, monthly.\
+gam01: large GAM using cubic spline.\
+gam02: small GAM using cubic spline.\
+gam03: cubic spline prediction comparison with linear regression and lasso.\
+AM_03_dense_mgcv.RData: cubic spline prediction results, dense model.\
+AM_03_sparse_mgcv.RData: cubic spline prediction results, sparse model.
 
