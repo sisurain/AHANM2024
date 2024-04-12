@@ -12,3 +12,10 @@ tnormrnd: truncated normal random number generator.\
 lpost_d: function that calculates the log density of parameter d.\
 Boston.txt: data file associated with AM_real01.\
 diabetes.data: data file associated with AM_real02.\
+AM_03: prediction comparison with linear regression and lasso.\
+AM_03_dense.mat: prediction results, dense model.\
+AM_03_sparse.mat: prediction results, sparse model.\
+AM_real03: the third real application.\
+CPILFESL.csv: data file associated with AM_real03, quarterly.\
+CPILFESL(1).csv: data file associated with AM_real03, monthly.
+
