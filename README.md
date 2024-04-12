@@ -9,4 +9,6 @@ GM3: construct k by k G matrix.\
 selectionM: construct n by k selection D matrix.\
 igaurnd: inverse-Gaussian random number generator.\
 tnormrnd: truncated normal random number generator.\
-lpost_d: function that calculates the log density of parameter d.
+lpost_d: function that calculates the log density of parameter d.\
+Boston.txt: data file associated with AM_real01.\
+diabetes.data: data file associated with AM_real02.\
