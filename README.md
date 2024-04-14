@@ -23,5 +23,6 @@ gam02: small GAM using cubic spline.\
 gam03: cubic spline prediction comparison with linear regression and lasso.\
 AM_03_dense_mgcv.RData: cubic spline prediction results, dense model.\
 AM_03_sparse_mgcv.RData: cubic spline prediction results, sparse model.\
-gam04: adding MARS to gam03
+gam04: adding MARS to gam03.\
+AM_MARS: DGP is from equation 56 in 'MARS' paper by Friedman 1991.
 
